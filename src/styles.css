@@ -173,7 +173,7 @@ ul {
 }
 /* HEADER -> BANNER */
 .banner {
-  background: url("./assets/webp/gradientCompressed.webp") no-repeat;
+  background: url("../dist/assets/webp/gradientCompressed.webp") no-repeat;
   background-size: 100%;
   height: 390px;
 }
