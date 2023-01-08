@@ -81,6 +81,6 @@ carouselButtons.forEach((button) => {
 
 // Contact
 contactButton.addEventListener("click", () => {
-  window.location.href =
-    "https://docs.google.com/forms/d/e/1FAIpQLSerSRWS7z5mEgpJ9xLlruS9PZF0PLXwXPuTPiP6-cL3u9wQfw/viewform?usp=sf_link";
+  // No more form website
+  window.location.href = ""
 });
